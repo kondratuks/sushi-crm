@@ -10,4 +10,4 @@ Practice project for building order and delivery logic for a sushi service.
 - [ ] Shopping cart logic
 
 ## Run
-`node delivery.js`п
+`node delivery.js`
